@@ -3,9 +3,7 @@
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 </div>
 
-
-
-Here are some ideas to get you started:
+### About me 
 
 - 🔭 I’m currently working on mod 2 at Turing School of Software and Design.
 - 🌱 I’m currently learning iterator methods, API's and how to connect to them, accessibility and Sass. 
