@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 Here are some ideas to get you started:
 
