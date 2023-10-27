@@ -5,17 +5,17 @@
 
 ## About me 
 
-- 🔭 I’m currently working on mod 2 at Turing School of Software and Design.
-- 🌱 I’m currently learning iterator methods, API's and how to connect to them, accessibility and Sass. 
+- 🔭 I’m currently working on mod 3 at Turing School of Software and Design.
+- 🌱 I’m currently learning React, Cypress, Router and Redux. 
 - 👯 I’m looking to collaborate on future projects around gaming and/or mental health. 
-- 🤔 I’m looking for help with preparing for technical interviews and working on iterator problems. 
+- 🤔 I’m looking for help with preparing for technical interviews and job searching. 
 - 💬 Ask me about my restaurant experience.
 - 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/jennifer-nguyen-b16882255)
+[LinkedIn](https://www.linkedin.com/in/jennifer-nguyen0615)
 Slack at: Jen Nguyen
 - 😄 Pronouns: she/her
-- 💻 Technology used: Html, CSS, JavaScript
-- 📚 Currently learning: Accessiblity, react
+- 💻 Technology used: Html, CSS, JavaScript, Sass, Figma, Node.js, Webpack, Mocha, Chai 
+
 
 ## Languages and Tools  
 <div align="center">  
