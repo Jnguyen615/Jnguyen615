@@ -6,7 +6,7 @@
 ## About me 
 
 - 🔭 I’m currently working on mod 3 at Turing School of Software and Design.
-- 🌱 I’m currently learning React, Cypress, Router and Redux. 
+- 🌱 I’m currently learning Redux 
 - 👯 I’m looking to collaborate on future projects around gaming and/or mental health. 
 - 🤔 I’m looking for help with preparing for technical interviews and job searching. 
 - 💬 Ask me about my restaurant experience.
@@ -14,12 +14,12 @@
 [LinkedIn](https://www.linkedin.com/in/jennifer-nguyen0615)
 Slack at: Jen Nguyen
 - 😄 Pronouns: she/her
-- 💻 Technology used: Html, CSS, JavaScript, Sass, Figma, Node.js, Webpack, Mocha, Chai 
+- 💻 Technology used: React, Html, CSS, JavaScript, Sass, Figma, Node.js, Webpack, Mocha, Chai, Cypress
 
 
 ## Languages and Tools  
 <div align="center">  
-<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" /></a>  
