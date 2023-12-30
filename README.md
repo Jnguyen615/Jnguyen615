@@ -1,11 +1,11 @@
 ### Hi there I'm Jen Nguyen👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
-</div>
-<div align="center"> 
+
   [Porfolio](https://terminal.turing.edu/profiles/2009)
   [Resume](https://docs.google.com/document/d/1QXq9uOGXB6WczSyRoWiX2Vtb_aOcWrgWbsuREjA2c2M/edit?usp=sharing)
 </div>
+  
 
 ## About me 
 
@@ -18,7 +18,7 @@
 [LinkedIn](https://www.linkedin.com/in/jennifer-nguyen0615)
 Slack at: Jen Nguyen
 - 😄 Pronouns: she/her
-- 💻 Technology used: React, Html, CSS, JavaScript, Sass, Figma, Node.js, Webpack, Mocha, Chai, Cypress
+- 💻 Technology used: React, Html, CSS, JavaScript, Sass, Figma, Canva, Node.js, Webpack, Mocha, Chai, Cypress
 
 
 ## Languages and Tools  
