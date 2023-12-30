@@ -1,10 +1,10 @@
 ### Hi there I'm Jen Nguyen👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
-</div>
-
 [Porfolio](https://terminal.turing.edu/profiles/2009)
 [Resume](https://docs.google.com/document/d/1QXq9uOGXB6WczSyRoWiX2Vtb_aOcWrgWbsuREjA2c2M/edit?usp=sharing)
+</div>
+
 
 ## About me 
 
