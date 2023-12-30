@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 </div>
 
+[Porfolio](https://terminal.turing.edu/profiles/2009)
+[Resume](https://docs.google.com/document/d/1QXq9uOGXB6WczSyRoWiX2Vtb_aOcWrgWbsuREjA2c2M/edit?usp=sharing)
+
 ## About me 
 
 - 🔭 I’m currently working on mod 3 at Turing School of Software and Design.
