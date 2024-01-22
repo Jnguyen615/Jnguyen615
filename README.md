@@ -10,7 +10,7 @@
 ## About me 
 
 - 🔭 I’m currently working on mod 3 at Turing School of Software and Design.
-- 🌱 I’m currently learning Redux 
+- 🌱 I’m currently learning Redux, Typescript and Tailwind
 - 👯 I’m looking to collaborate on future projects around gaming and/or mental health. 
 - 🤔 I’m looking for help with preparing for technical interviews and job searching. 
 - 💬 Ask me about my restaurant experience.
