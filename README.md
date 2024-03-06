@@ -1,4 +1,4 @@
-### Hi there I'm Jen Nguyen👋
+<h1 align='center'> Hi there I'm Jen Dmytrenko👋 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
