@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
   [Porfolio](https://terminal.turing.edu/profiles/2009)
-  [Resume](https://docs.google.com/document/d/1QXq9uOGXB6WczSyRoWiX2Vtb_aOcWrgWbsuREjA2c2M/edit?usp=sharing)
+  [Resume](https://docs.google.com/document/d/1ulvoCcnp0Z8wyb48ZkB87zJ_HjGue30dcav8EUn9phs/edit)
 </div>
   
 
@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with preparing for technical interviews and job searching. 
 - 💬 Ask me about my restaurant experience.
 - 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/jennifer-nguyen0615)
+[LinkedIn](www.linkedin.com/in/jennifer-dmytrenko)
 Slack at: Jen Nguyen
 - 😄 Pronouns: she/her
 - 💻 Technology used: React, Html, CSS, JavaScript, Sass, Figma, Canva, Node.js, Webpack, Mocha, Chai, Cypress
