@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with preparing for technical interviews and job searching. 
 - 💬 Ask me about my restaurant experience.
 - 📫 How to reach me: 
-  [LinkedIn](www.linkedin.com/in/jennifer-dmytrenko)
+  [LinkedIn](www.linkedin.com/in/jennifer-dmytrenko](https://www.linkedin.com/in/jennifer-dmytrenko/)
    Slack at: Jen Dmytrenko
 - 😄 Pronouns: she/her
 - 💻 Technology used: React, Html, CSS, JavaScript, Sass, Figma, Canva, Node.js, Webpack, Mocha, Chai, Cypress
