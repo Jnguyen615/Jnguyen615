@@ -16,7 +16,7 @@
 - 💬 Ask me about my restaurant experience.
 - 📫 How to reach me: 
   [LinkedIn](https://www.linkedin.com/in/jennifer-dmytrenko/)
-   Slack at: Jen Dmytrenko
+   Slack at: Jen Dmytrenko (or Jen Nguyen) 
 - 😄 Pronouns: she/her
 - 💻 Technology used: React, Html, CSS, JavaScript, Sass, Figma, Canva, Node.js, Webpack, Mocha, Chai, Cypress
 
