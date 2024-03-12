@@ -18,8 +18,7 @@
   [LinkedIn](https://www.linkedin.com/in/jennifer-dmytrenko/)
    Slack at: Jen Dmytrenko (or Jen Nguyen) 
 - 😄 Pronouns: she/her
-- 💻 Technology used: React, Html, CSS, JavaScript, Sass, Figma, Canva, Node.js, Webpack, Mocha, Chai, Cypress
-
+- 💻 Technology used: React, Html, CSS, JavaScript, Sass, Figma, Canva, Node.js, Webpack, Mocha, Chai, Cypress, Typescript
 
 ## Languages and Tools  
 <div align="center">  
@@ -41,8 +40,6 @@
 <br>
 
 ## Github Stats  
-<div align='center'> 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jnguyen615&theme=violet-punch)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jnguyen615&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnguyen615&show_icons=true&theme=tokyonight)
-</div> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnguyen615&show_icons=true&theme=tokyonight) 
