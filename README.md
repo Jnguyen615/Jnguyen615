@@ -9,7 +9,7 @@
 
 ## About me 
 
-- 🔭 I’ve completed a bootcamp for front end engineering at Turing School of Software and Design in March 2024.
+- 🔭 I’ve completed a bootcamp for Front End engineering at Turing School of Software and Design in March 2024.
 - 🌱 I’m currently learning Redux, Typescript and Tailwind
 - 👯 I’m looking to collaborate on future projects around gaming and/or mental health. 
 - 🤔 I’m looking for help with preparing for technical interviews and job searching. 
