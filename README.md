@@ -32,6 +32,7 @@
 <a href="https://mochajs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="30" /></a>  
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="30" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="30" /></a>  
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic)
 </div>  
 <br>
 
