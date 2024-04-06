@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
   [Porfolio](https://terminal.turing.edu/profiles/2009)
-  [Resume](https://docs.google.com/document/d/1ulvoCcnp0Z8wyb48ZkB87zJ_HjGue30dcav8EUn9phs/edit)
+  [Resume](https://docs.google.com/document/d/1krW1cadEjRd6PnY_0wvFlt3RTq5Oo_IF5sJwt-s6OUg/edit?usp=sharing)
 </div>
   
 
