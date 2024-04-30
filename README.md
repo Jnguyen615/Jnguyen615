@@ -18,7 +18,7 @@
   [LinkedIn](https://www.linkedin.com/in/jennifer-dmytrenko/)
    Slack at: Jen Dmytrenko (or Jen Nguyen) 
 - 😄 Pronouns: she/her
-- 💻 Technology used: React, Html, CSS, JavaScript, Sass, Figma, Canva, Node.js, Webpack, Mocha, Chai, Cypress, Typescript
+- 💻 Technology used: React, Html, CSS, JavaScript, SaSS, Figma, Canva, Node.js, Webpack, Mocha, Chai, Cypress, Typescript, Tailwind
 
 ## Languages and Tools  
 <div align="center">  
